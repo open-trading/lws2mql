@@ -1,7 +1,9 @@
 # lws2mql
+
 Websocket client library for MetaTrader Trading Platform. Supports MQL4 and MQL5. Lets the MetaTrader Scripts, Expert Advisors, or Indicators connect to a Websocket server. This is based on the libwebsocket library.
 
 ## How To
+
 Since we are generating a Windows DLL for MetaTrader, it is easier to build on a Windows environment or at least using Wine.
 
 ### Build
